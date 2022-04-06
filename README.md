@@ -1,5 +1,5 @@
-## Oii! eu sou o Gabriel Ferreira Santos
-### Sou estudante de ADS 2°periodo
+## Oi! Eu sou o Gabriel Ferreira Santos
+### Curso ADS 2°periodo
 <div align="center">
   <a href="https://github.com/ImGabriell">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ImGabriell&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
