@@ -1,4 +1,4 @@
-## Formado em Análise e Desenvolvimento de Sistemas, sempre buscando aprender e se aperfeiçoar no ramo da tecnologia.
+## É isso aí
 ###
 <div align="center">
   <a href="https://github.com/ImGabriell">
